@@ -1,0 +1,6 @@
+23:33:20.018 [main] INFO  HybridFramework.E2Eproject.HomePageTest - Navigated to Home page
+23:33:20.465 [main] INFO  HybridFramework.E2Eproject.HomePageTest - Tapped on Login button
+23:33:20.540 [main] INFO  HybridFramework.E2Eproject.HomePageTest - Entered username
+23:33:20.599 [main] INFO  HybridFramework.E2Eproject.HomePageTest - Entered password
+23:33:20.600 [main] INFO  HybridFramework.E2Eproject.HomePageTest - restricted
+23:33:26.268 [main] INFO  HybridFramework.E2Eproject.CoursesTest - Driver is initialized

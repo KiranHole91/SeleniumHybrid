@@ -1,0 +1,6 @@
+22:06:59.382 [TestNG-tests-2] INFO  HybridFramework.E2Eproject.HomePageTest - Entered username
+22:06:59.458 [TestNG-tests-2] INFO  HybridFramework.E2Eproject.HomePageTest - Entered password
+22:06:59.459 [TestNG-tests-2] INFO  HybridFramework.E2Eproject.HomePageTest - restricted
+22:06:59.575 [TestNG-tests-2] INFO  HybridFramework.E2Eproject.HomePageTest - Navigated to Login page
+22:06:59.791 [TestNG-tests-2] INFO  HybridFramework.E2Eproject.HomePageTest - Navigated to Forgot Password page
+22:06:59.870 [TestNG-tests-2] INFO  HybridFramework.E2Eproject.HomePageTest - Entered Email
